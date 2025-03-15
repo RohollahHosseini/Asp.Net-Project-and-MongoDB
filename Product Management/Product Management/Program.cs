@@ -13,7 +13,6 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-//builder.Services.AddOpenApi();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
@@ -28,14 +27,14 @@ builder.Services.AddSwaggerGen(c =>
 
 #region MongoDB Context Configuration
 
-builder.Services.AddSingleton<IMongoDBContext,MongoDBContext>();
+builder.Services.AddSingleton<IMongoDBContext, MongoDBContext>();
 
 #endregion
 
 #region Registeration Services
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-builder.Services.AddScoped<IProductService,ProductService>();
+builder.Services.AddScoped<IProductService, ProductService>();
 
 #endregion
 
@@ -45,15 +44,13 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    //app.MapOpenApi();
+    app.UseSwagger();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Product Management API v1");
+        c.RoutePrefix = string.Empty;
+    });
 }
-
-app.UseSwagger();
-app.UseSwaggerUI(c =>
-{
-    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Product Management API v1");
-    c.RoutePrefix = string.Empty; // برای دسترسی به swagger در root (localhost:5000)
-});
 
 app.UseHttpsRedirection();
 

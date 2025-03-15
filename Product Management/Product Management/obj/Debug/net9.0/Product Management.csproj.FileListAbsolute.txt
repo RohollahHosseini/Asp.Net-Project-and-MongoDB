@@ -1,0 +1,43 @@
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\appsettings.Development.json
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\appsettings.json
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\Product Management.staticwebassets.endpoints.json
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\Product Management.exe
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\Product Management.deps.json
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\Product Management.runtimeconfig.json
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\Product Management.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\Product Management.pdb
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\Product Management.csproj.AssemblyReference.cache
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\Product Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\Product Management.AssemblyInfoInputs.cache
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\Product Management.AssemblyInfo.cs
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\Product Management.csproj.CoreCompileInputs.cache
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\Product Management.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\Product Management.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\scopedcss\bundle\Product Management.styles.css
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\staticwebassets.build.json
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\staticwebassets.development.json
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\staticwebassets\msbuild.Product Management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\staticwebassets\msbuild.Product Management.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\staticwebassets\msbuild.build.Product Management.props
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Product Management.props
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Product Management.props
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\Product .18ADA7BF.Up2Date
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\Product Management.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\refint\Product Management.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\Product Management.pdb
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\Product Management.genruntimeconfig.cache
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\obj\Debug\net9.0\ref\Product Management.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\DnsClient.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\MongoDB.Bson.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\MongoDB.Driver.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\SharpCompress.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\Snappier.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\ZstdSharp.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\MyProjectsInGitHub\CRUD with MongoDB and Asp.net core WebApi\Product Management\Product Management\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
